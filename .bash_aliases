@@ -1,0 +1,16 @@
+alias lh='ls -Shl --group-directories-first'
+alias ldir='ls -d */'
+alias find-z='zenity --entry --text="Geben sie ein Suchwort ein"|xargs find . -name'
+alias get-pron='torify wget --page-requisites --quiet  --no-directories  --random-wait --span-hosts --show-progress --domains="*cdn.*,*content*," --accept=.jpg,.mov,.png,.cbz,.jpeg,.mp4,.gif,.webm --recursive --no-parent'
+alias tor-browser="/home/jens/tor-browser_en-US/start-tor-browser"
+alias skypes=" skype --dbpath=~/.Skype & skype --dbpath=~/.Skype2 & skype --dbpath=~/.Skype3 "
+alias get-pron-4chan='torify wget --no-directories --page-requisites -e robots=off --accept=.jpg,.mov,.png,.cbz,.jpeg,.mp4,.gif,.webm, --recursive --no-parent --domains=images.4chan.org,i.4cdn.org  --show-progress --random-wait --reject="s.jpg,s.jpeg" --span-hosts '
+
+alias clean-up-list="dpkg -l 'linux-[ihs]*' | sed '/^ii/!d;/'"$(uname -r | sed "s/\([-0-9]*\)-\([^0-9]\+\)/\1/")"'/d;s/^[^ ]* [^ ]* \([^ ]*\).*/\1/;/[0-9]/!d' | tee zu_entfernende_Kernel "
+alias clean-up-remove=" cat zu_entfernende_Kernel | xargs sudo apt-get -y purge && rm zu_entfernende_Kernel "
+
+alias run_offlineimap="while 1=1;do (ping -c 1 8.8.8.8 && offlineimap -c $HOME/Development/offlineimap/offlineimap_j.conf -u ttyui ) || sleep 5m ; done "
+
+alias wakeprinter='wakeonlan 00:16:17:e3:84:ed'
+alias mutt_full='mutt -F ~/.mutt/.muttrc'
+alias vi=vim
