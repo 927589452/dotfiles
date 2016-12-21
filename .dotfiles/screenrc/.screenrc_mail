@@ -1,0 +1,10 @@
+source $HOME/.screenrc
+
+#screen -t mutt mutt -F $HOME/.dotfiles/mutt/.muttrc_minimal 
+#export inf=1 # so i can later kill it
+
+screen -t offlineimap_dev $HOME/.dotfiles/screenrc/scripts/run_offlineimap_dev.sh
+screen -t offlineimap  $HOME/.dotfiles/screenrc/scripts/run_offlineimap.sh
+screen -t msmtp $HOME/.dotfiles/screenrc/scripts/run_msmtp.sh
+screen -t mutt mutt -F $HOME/.dotfiles/mutt/.muttrc_minimal 
+

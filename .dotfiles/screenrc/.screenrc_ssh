@@ -1,0 +1,9 @@
+source $HOME/.screenrc
+shell			bash
+screen -t opennacl      ssh opennacl
+screen -t lianli 	ssh opennacl.lianli
+screen -t hp		ssh opennacl.freenas-hp
+screen -t uber		ssh uber 
+screen -t doc		
+
+

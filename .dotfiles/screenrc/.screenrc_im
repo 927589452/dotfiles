@@ -1,0 +1,8 @@
+source $HOME/.screenrc
+
+screen -t irssi irssi --home=$HOME/.dotfiles/.irssi/
+
+screen -t Telegram ~/telegram/Telegram/Telegram 
+screen -t mumble mumble
+select irssi
+
