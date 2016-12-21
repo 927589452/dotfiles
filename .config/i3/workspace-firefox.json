@@ -1,0 +1,242 @@
+// vim:ts=4:sw=4:et
+{
+    // tabbed split container with 10 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "tabbed",
+    "percent": null,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Xmodmap – wiki.archlinux.de - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^Xmodmap\\ \\–\\ wiki\\.archlinux\\.de\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "SP-H IPv6 Prefix Delegation (mit Telekom-Adressen) - Speedport Hybrid - Stricted.net - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^SP\\-H\\ IPv6\\ Prefix\\ Delegation\\ \\(mit\\ Telekom\\-Adressen\\)\\ \\-\\ Speedport\\ Hybrid\\ \\-\\ Stricted\\.net\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Goethe-Universität — Prof. Dr. Alex Küronya - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^Goethe\\-Universität\\ \\—\\ Prof\\.\\ Dr\\.\\ Alex\\ Küronya\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "LINE: Gratis Anrufe & Nachrichten - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^LINE\\:\\ Gratis\\ Anrufe\\ \\&\\ Nachrichten\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "21.6. FreeBSD as a Host with VirtualBox - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^21\\.6\\.\\ FreeBSD\\ as\\ a\\ Host\\ with\\ VirtualBox\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Der Maker-Guide für die Zombie-Apokalypse:20 Survival-Projekte mit einfacher Elektronik, Arduino und Raspberry Pi edition Make:: Amazon.de: Simon Monk: Bücher - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^Der\\ Maker\\-Guide\\ für\\ die\\ Zombie\\-Apokalypse\\:20\\ Survival\\-Projekte\\ mit\\ einfacher\\ Elektronik\\,\\ Arduino\\ und\\ Raspberry\\ Pi\\ edition\\ Make\\:\\:\\ Amazon\\.de\\:\\ Simon\\ Monk\\:\\ Bücher\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Linux Crypto: Agents | Arabesque - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^Linux\\ Crypto\\:\\ Agents\\ \\|\\ Arabesque\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "list of installed ports? | The FreeBSD Forums - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^list\\ of\\ installed\\ ports\\?\\ \\|\\ The\\ FreeBSD\\ Forums\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "i3: Layout saving in i3 - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^i3\\:\\ Layout\\ saving\\ in\\ i3\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 861,
+               "width": 1596,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Pocket Casts - Mozilla Firefox",
+            "percent": 0.1,
+            "swallows": [
+               {
+               // "class": "^Firefox$",
+               // "instance": "^Navigator$",
+               // "title": "^Pocket\\ Casts\\ \\-\\ Mozilla\\ Firefox$",
+               // "transient_for": "^$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
