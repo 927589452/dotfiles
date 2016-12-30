@@ -36,3 +36,5 @@ Plug '~/my-prototype-plugin'
 " Add plugins to &runtimepath
 call plug#end()
 
+" get :! executed
+set shell=/usr/local/bin/bash
