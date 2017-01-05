@@ -237,6 +237,11 @@ exec chrome
 exec firefox -no-remote -profile '/usr/home/jens/.mozilla/firefox/griaj53s.sports'
 exec firefox -no-remote -profile '/usr/home/jens/.mozilla/firefox/rcahm42x.crafts'
 exec firefox -no-remote -profile '/usr/home/jens/.mozilla/firefox/7zt02635.default'
+exec --no-startup-id i3-msg '$workspace8; exec terminator --layout=mail  --profile=mail;$workspace1'
+
+#example
+#exec --no-startup-id i3-msg 'workspace 3; exec iceweasel; workspace 1'
+
 
 ##personal sorting
 #www
