@@ -1,7 +1,6 @@
 alias lh='ls -Shl --group-directories-first'
 alias ldir='ls -d */'
 alias find-z='zenity --entry --text="Geben sie ein Suchwort ein"|xargs find . -name'
-alias get-pron='torify wget --page-requisites --quiet  --no-directories  --random-wait --span-hosts --show-progress --domains="*cdn.*,*content*," --accept=.jpg,.mov,.png,.cbz,.jpeg,.mp4,.gif,.webm --recursive --no-parent'
 alias tor-browser="/home/jens/tor-browser_en-US/start-tor-browser"
 alias skypes=" skype --dbpath=~/.Skype & skype --dbpath=~/.Skype2 & skype --dbpath=~/.Skype3 "
 alias get-pron-4chan='torify wget --no-directories --page-requisites -e robots=off --accept=.jpg,.mov,.png,.cbz,.jpeg,.mp4,.gif,.webm, --recursive --no-parent --domains=images.4chan.org,i.4cdn.org  --show-progress --random-wait --reject="s.jpg,s.jpeg" --span-hosts '
